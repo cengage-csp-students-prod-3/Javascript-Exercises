@@ -1,0 +1,1 @@
+**Task #07:** Create a `switch-case` structure for the possible values of the `positionSearchType` variable

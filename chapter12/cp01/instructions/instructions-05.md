@@ -1,0 +1,1 @@
+**Task #05:** Create and append `figBox` element to element with id `box`

@@ -1,0 +1,1 @@
+Reopen _gi_qbs.html_ in your browser. Verify that you can sort the table in different order by clicking each column heading and that an arrow icon indicates the sort column and the current sorting direction. Further verify that you can toggle between an ascending and descending sort by clicking the same column heading more than once.

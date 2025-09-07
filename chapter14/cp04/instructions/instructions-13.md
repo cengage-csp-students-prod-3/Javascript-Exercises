@@ -1,0 +1,1 @@
+**Task #13:** Button with id `moveLeft` allows moving a stamp left on the canvas

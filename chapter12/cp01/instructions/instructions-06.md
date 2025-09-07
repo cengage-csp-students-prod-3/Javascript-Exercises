@@ -1,0 +1,1 @@
+**Task #06:** Populate the figure box with preview images of the five fancy style sheets

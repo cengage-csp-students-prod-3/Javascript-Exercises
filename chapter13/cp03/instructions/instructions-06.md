@@ -1,0 +1,1 @@
+**Task #06:** Load *mas_reg2.js* asynchronously in *mas_reg2.html*

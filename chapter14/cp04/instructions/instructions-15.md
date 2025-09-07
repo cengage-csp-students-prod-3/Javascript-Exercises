@@ -1,0 +1,1 @@
+**Task #15:** Button with id `moveUp` allows moving a stamp up on the canvas

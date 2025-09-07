@@ -1,0 +1,1 @@
+**Task #10:** Button with id `removeStamp` allows the user to remove a stamp

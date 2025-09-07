@@ -1,0 +1,1 @@
+Open _sub_menu.html_ in your browser. Verify that when you click an Add to Order button, the description and image of the product is added to the shopping cart. Further verify that when you click the same food product several times, a running total of the number of items ordered is displayed in the shopping cart.

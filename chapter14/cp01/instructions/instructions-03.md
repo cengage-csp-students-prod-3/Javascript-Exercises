@@ -1,0 +1,1 @@
+**Task #03:** Create `box` object literal in *bu_bubbles.js*

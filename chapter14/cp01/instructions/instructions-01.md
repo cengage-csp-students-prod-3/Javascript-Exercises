@@ -1,0 +1,1 @@
+**Task #01:** Load *bu_bubbles.js* asynchronously in *bu_home.html*

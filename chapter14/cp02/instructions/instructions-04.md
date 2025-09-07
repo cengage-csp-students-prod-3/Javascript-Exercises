@@ -1,0 +1,1 @@
+**Task #04:** Apply the `selectedValue()` method to the `nameSearchType` selection list and store the value in the `nameSearchType` variable

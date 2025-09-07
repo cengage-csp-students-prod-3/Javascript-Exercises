@@ -1,0 +1,1 @@
+**Task #04:** `addToGame()` `stamp` prototype method defined

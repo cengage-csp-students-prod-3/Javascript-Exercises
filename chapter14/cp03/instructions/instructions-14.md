@@ -1,0 +1,1 @@
+**Task #14:** Add `onclick` event handler to `removeButton`

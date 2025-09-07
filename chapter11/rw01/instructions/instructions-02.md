@@ -1,0 +1,1 @@
+**Task #02:** Declare the global variable `allCells` in *jpf_hitori.js*

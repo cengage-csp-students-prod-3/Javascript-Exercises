@@ -1,0 +1,1 @@
+**Task #02:** Event listener runs `setStyles()`

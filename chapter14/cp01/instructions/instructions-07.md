@@ -1,0 +1,1 @@
+**Task #07:** `newBubble` declared using `new bubble()` object constructor

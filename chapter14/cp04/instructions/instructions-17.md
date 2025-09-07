@@ -1,0 +1,1 @@
+**Task #17:** Button with id `rotateRight` allows increasing the degrees of rotation for the `transform` style of a stamp

@@ -1,0 +1,1 @@
+Load _bu_home.html_ in your browser. Verify that the animated bubbles are displayed in the company logo that spin, move, bounce off the wall, and change colors in random fashion. Verify that the bubbles eventually fade out, to be replaced by new bubbles of varying sizes and shapes.

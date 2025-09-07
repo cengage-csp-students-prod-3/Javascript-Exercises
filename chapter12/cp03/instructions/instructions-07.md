@@ -1,0 +1,1 @@
+Open the _js_nodes.html_ file and click **Build Website**. Verify that the browser displays the schematic diagram of the node tree for the Working with Nodes article. Further verify that the second paragraph of the article reports 238 total nodes in the document, comprised of 98 element nodes, and 140 text nodes (of which 57 are whitespace nodes).

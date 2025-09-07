@@ -1,0 +1,1 @@
+**Task #11:** Apply the `sortById()` method to the `searchResult` object

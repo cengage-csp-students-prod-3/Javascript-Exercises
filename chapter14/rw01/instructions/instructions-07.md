@@ -1,0 +1,1 @@
+**Task #07:** Change the `src` attribute of the `newCard` inline image by calling the `cardImage()` method

@@ -1,0 +1,1 @@
+**Task #20:** Button with id `darken` allows increasing the value of the `opacity` style for a stamp

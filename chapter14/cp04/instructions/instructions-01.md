@@ -1,0 +1,1 @@
+**Task #01:** Load *kg_stamps.js* asynchronously in *kg_stamps.html*

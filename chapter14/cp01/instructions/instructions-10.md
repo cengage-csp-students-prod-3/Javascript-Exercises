@@ -1,0 +1,1 @@
+**Task #10:** Create `setInterval()` timer and store it in `bubbleInterval`

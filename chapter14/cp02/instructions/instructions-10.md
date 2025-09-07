@@ -1,0 +1,1 @@
+**Task #10:** Correctly set text content of the `tableCaption` object

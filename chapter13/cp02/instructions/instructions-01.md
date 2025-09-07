@@ -1,0 +1,1 @@
+**Task #01:** `load` event listener added in *dl_expenses.js*

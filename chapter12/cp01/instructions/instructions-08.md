@@ -1,0 +1,1 @@
+Open the _na_home.html_ file in your browser. Verify that by clicking the thumbnail images in the lower-left corner of the page, the document is displayed in a different style theme. Further verify that reloading the page randomly selects a style theme from one of the five style sheet files.

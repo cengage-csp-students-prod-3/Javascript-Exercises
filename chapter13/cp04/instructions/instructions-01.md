@@ -1,0 +1,1 @@
+**Task #01:** Link CSS and JavaScript files in *ws_lincoln.html*

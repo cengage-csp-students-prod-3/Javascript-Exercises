@@ -1,0 +1,1 @@
+**Task #05:** Load *co_credit.js* asynchronously in *co_credit.html*

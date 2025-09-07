@@ -1,0 +1,2 @@
+## Task 02
+Return to the *js_tree.js* file in your editor. Jorge wants you to keep track of the total count of nodes, element nodes, text nodes, and white-space nodes. Below the comment section, create the following global variables: `nodeCount`, `elemCount`, `textCount`, and `wsCount` and set their initial values to **0**.

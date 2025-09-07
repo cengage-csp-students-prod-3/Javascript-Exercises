@@ -1,0 +1,1 @@
+**Task #06:** Create a constructor for the `pizza` object class

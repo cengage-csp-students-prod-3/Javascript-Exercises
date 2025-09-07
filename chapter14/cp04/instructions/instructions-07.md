@@ -1,0 +1,1 @@
+**Task #07:** The 'Sizes' option allows the size of the next stamp to be placed to be selected

@@ -1,0 +1,1 @@
+**Task #02:** Add `onload` event listener that runs function `init`

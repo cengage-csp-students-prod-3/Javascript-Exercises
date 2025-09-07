@@ -1,0 +1,1 @@
+**Task #12:** Remove `newBubble` when its `opacity` is less than 0

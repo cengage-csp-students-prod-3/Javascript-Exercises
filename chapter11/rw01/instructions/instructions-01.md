@@ -1,0 +1,1 @@
+**Task #01:** Load `.css` and `.js` files in *jpf_hitori.html*

@@ -1,0 +1,1 @@
+**Task #13:** Animate the bubble in `bubbleInterval` method

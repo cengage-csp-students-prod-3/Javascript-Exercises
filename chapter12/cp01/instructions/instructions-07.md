@@ -1,0 +1,1 @@
+**Task #07:** Create an embedded style sheet with the specified style rules

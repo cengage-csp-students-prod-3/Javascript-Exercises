@@ -1,0 +1,1 @@
+**Task #03:** Create the `nameSearch` variable equal to the value entered in the `nameSearch` input box.

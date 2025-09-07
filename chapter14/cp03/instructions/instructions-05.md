@@ -1,0 +1,1 @@
+**Task #05:** Add `calcItemCost()`, `calcCartTotal()`, `addToCart()`, and `removeFromCart()` methods to `cart` and `foodItem` prototypes

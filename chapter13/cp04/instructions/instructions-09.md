@@ -1,0 +1,1 @@
+**Task #09:** Call the `findUnique()` function with the `wordArray` variable as the parameter

@@ -1,0 +1,1 @@
+**Task #12:** Add a table row to the body of the staff table: one row for each employee record

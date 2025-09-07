@@ -1,0 +1,1 @@
+**Task #05:** Create a `switch-case` structure for the possible values of the `nameSearchType` variable

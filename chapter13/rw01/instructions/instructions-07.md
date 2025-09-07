@@ -1,0 +1,1 @@
+**Task #07:** validation event handlers applied in window `load` event for *co_credit.js*

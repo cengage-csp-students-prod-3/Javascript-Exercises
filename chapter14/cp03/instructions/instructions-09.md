@@ -1,0 +1,1 @@
+**Task #09:** Add the `addTopping()` and `calcPizzaPrice()` methods to the `pizza` prototype

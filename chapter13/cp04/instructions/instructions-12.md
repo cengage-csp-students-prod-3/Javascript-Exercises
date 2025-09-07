@@ -1,0 +1,1 @@
+**Task #12:** Store the count of the third highest used word in the `top3Count` variable

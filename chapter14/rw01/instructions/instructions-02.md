@@ -1,0 +1,1 @@
+**Task #02:** Complete definition of `squareGame` object

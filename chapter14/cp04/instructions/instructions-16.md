@@ -1,0 +1,1 @@
+**Task #16:** Button with id `moveDown` allows moving a stamp down on the canvas

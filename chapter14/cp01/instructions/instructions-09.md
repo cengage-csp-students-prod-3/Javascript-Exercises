@@ -1,0 +1,1 @@
+**Task #09:** Apply the `bubble` object to a new inline image

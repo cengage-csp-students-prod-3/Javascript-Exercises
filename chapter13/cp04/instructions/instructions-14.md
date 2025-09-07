@@ -1,0 +1,1 @@
+Load _ws_lincoln.html_ in your browser and verify that a word cloud of the top 100 words from Lincoln’s 1st inaugural address appears on the page and that the top three words (constitution, people, and union) appear in pink with a shadow. Verify that the words are different font sizes, indicating their status within the group of top one-hundred words used.

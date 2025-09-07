@@ -1,0 +1,1 @@
+**Task #05:** Create the `fadeBubble()`, `changeColor()`, and `rotateBubble()` methods for the `bubble` prototype

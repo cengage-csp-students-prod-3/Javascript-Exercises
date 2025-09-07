@@ -1,0 +1,1 @@
+**Task #04:** Create and append the `fancySheet` `link` element to the `document` `head`

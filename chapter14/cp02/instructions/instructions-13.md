@@ -1,0 +1,1 @@
+Open the _cc_staff.html_ file in your browser. Verify that you can use the Search form to search for employees based on their last name, department, and position. Further verify that you can apply the Contains, Begin With, and Exact options for matching the employee’s last name and position in the company.

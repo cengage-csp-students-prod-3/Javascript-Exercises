@@ -1,0 +1,2 @@
+## Task 04
+Create an element node for the `link` element and set its `rel` attribute to “**stylesheet**”, its `id` attribute to “**fancySheet**”, and its `href` attribute to “**na_style_num.css**” where **num** is the value of the `styleNum` variable. Append the `fancySheet` `style` element to the document head, adding it to the document’s style sheets collection.

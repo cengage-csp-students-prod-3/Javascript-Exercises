@@ -1,0 +1,1 @@
+**Task #06:** window `load` event listener added in *co_credit.js*

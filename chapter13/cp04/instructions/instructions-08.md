@@ -1,0 +1,1 @@
+**Task #08:** Apply the `split()` method to split `wordContent` at every occurrence of one or more white-space characters

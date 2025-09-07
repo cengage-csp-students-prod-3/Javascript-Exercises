@@ -1,0 +1,1 @@
+**Task #05:** `myDeck` object created and shuffled in Start Button `onclick` event handler

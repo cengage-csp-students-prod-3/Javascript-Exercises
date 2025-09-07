@@ -1,0 +1,3 @@
+## Task 08
+
+The final search condition in the web form allows the user to specify the employee’s department. Users can leave the department blank (to match any department) or they can specify the department from the `deptSearch` selection list. Apply the `selectedValue()` method that Richard created for select elements to the `deptSearch` selection list to retrieve the department value selected by the user, storing the value in the `deptSearch` variable. If `deptSearch` equals “” or the value of `record.dept` (the value of the dept property for the current employee record currently being examined in the `forEach()` loop), store the `Boolean` value true in the `foundDept` variable.

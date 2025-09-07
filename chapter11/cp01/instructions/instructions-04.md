@@ -1,0 +1,1 @@
+**Task #04:** Create the `lightStars()` and `turnOffStars()` functions

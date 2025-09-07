@@ -1,0 +1,1 @@
+**Task #01:** Load *ag_cards2.js* and *ag_squares.js* asynchronously in *ag_squares.html*

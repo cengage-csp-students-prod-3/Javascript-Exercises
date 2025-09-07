@@ -1,0 +1,1 @@
+**Task #06:** `makeTree()` function displays the total count of nodes

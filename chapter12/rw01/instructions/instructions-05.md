@@ -1,0 +1,1 @@
+Open the _bc_fed.html_ file in your browser and verify that the page resembles the content and layout shown in _Figure 12-53_. Verify that you can click the entries in the keyword list to go to the corresponding term in the Federalist 10 article.

@@ -1,0 +1,1 @@
+**Task #12:** Add an `onclick` handler to the 'Show Solution' button

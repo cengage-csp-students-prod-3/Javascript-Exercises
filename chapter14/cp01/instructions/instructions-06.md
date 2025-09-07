@@ -1,0 +1,1 @@
+**Task #06:** Create the `moveBubble()` method for the `bubble` prototype

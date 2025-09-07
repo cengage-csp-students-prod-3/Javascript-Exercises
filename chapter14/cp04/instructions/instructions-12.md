@@ -1,0 +1,1 @@
+**Task #12:** Button with id `shrinkStamp` allows decreasing the `width` and `height` styles of a stamp

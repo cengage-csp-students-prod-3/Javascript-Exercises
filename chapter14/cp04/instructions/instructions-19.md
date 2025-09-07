@@ -1,0 +1,1 @@
+**Task #19:** Button with id `lighten` allows decreasing the value of the `opacity` style for a stamp

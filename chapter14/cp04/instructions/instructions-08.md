@@ -1,0 +1,1 @@
+**Task #08:** The 'Shades' option allows changing the opacity of the next stamp to be placed

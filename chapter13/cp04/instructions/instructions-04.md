@@ -1,0 +1,1 @@
+**Task #04:** Apply the `toLowerCase()` method to `wordContent`

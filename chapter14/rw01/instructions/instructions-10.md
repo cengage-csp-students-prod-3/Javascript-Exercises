@@ -1,0 +1,1 @@
+**Task #10:** `onclick` event handler for cells in grid table correctly handles game is over condition

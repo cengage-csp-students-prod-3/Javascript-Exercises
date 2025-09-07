@@ -1,0 +1,1 @@
+**Task #08:** Apply the `selectedValue()` method to the `deptSearch` selection list and store the value in the `deptSearch` variable

@@ -1,0 +1,1 @@
+**Task #07:** Apply the `trim()` method to the `wordContent` variable

@@ -1,0 +1,1 @@
+**Task #09:** All images are removed from the canvas when the garbage can icon is clicked

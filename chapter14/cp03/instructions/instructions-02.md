@@ -1,0 +1,1 @@
+**Task #02:** Create object literal named `pizzaPrice`

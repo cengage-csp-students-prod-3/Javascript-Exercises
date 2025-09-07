@@ -1,0 +1,1 @@
+**Task #06:** Create and initialize `myStarterCard` object

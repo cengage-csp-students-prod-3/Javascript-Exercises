@@ -1,0 +1,5 @@
+Open the _mt_calc.html_ file in your browser. Click the different calculator buttons and verify that you can enter a mathematical expression into the calculator and evaluate that expression by clicking the enter button. Verify that you can erase the last character by clicking the bksp button. Verify that you can copy the last expression by clicking the enter button followed by the prev button. Show that you can clear the contents of the calculator window by clicking the del button. Finally verify that you can change the number of decimal places in the answer by changing the value in the dec input box.
+
+Click within the calculator window and, using the keyboard, directly type a mathematical expression. Verify that pressing the Enter key evaluates the current expression and moves the cursor to a new line. Show that you can copy the previous expression by pressing the Enter key followed by the up-arrow key on your keyboard. Finally verify that pressing the Delete key clears the contents of the calculator window.
+
+> Note: Keyboard commands might not work in the Safari browser since Safari does not support the key property at the time of this writing.

@@ -1,0 +1,1 @@
+Verify that you can place stamp images on the canvas using the controls on the page. Verify that you can modify a stamp image on the canvas by clicking one of the toolbar tools and then clicking the stamp image.

@@ -1,0 +1,1 @@
+**Task #01:** Load *mas_register.js* asynchronously in *mas_register.html*

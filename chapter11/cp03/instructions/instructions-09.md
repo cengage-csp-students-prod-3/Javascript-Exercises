@@ -1,0 +1,1 @@
+**Task #09:** Create `switchTypeDirection()` function

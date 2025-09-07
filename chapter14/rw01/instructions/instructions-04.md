@@ -1,0 +1,1 @@
+**Task #04:** Set up initial game board in Start Button `onclick` event handler

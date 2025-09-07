@@ -1,0 +1,1 @@
+**Task #11:** Button with id `enlargeStamp` allows increasing the `width` and `height` styles of a stamp

@@ -1,0 +1,1 @@
+**Task #08:** `newBubble` object's property values set correctly 

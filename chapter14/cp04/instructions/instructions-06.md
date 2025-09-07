@@ -1,0 +1,1 @@
+**Task #06:** A shape can be placed on the canvas

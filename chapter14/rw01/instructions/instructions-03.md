@@ -1,0 +1,1 @@
+**Task #03:** `insertCard()` method added to `pokerHand` object prototype

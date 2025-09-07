@@ -1,0 +1,1 @@
+**Task #02:** Run `init()` function on window load event

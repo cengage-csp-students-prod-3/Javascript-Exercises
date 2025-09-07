@@ -1,0 +1,1 @@
+**Task #14:** Button with id `moveRight` allows moving a stamp right on the canvas

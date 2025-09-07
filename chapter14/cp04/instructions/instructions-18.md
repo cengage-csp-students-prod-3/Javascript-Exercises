@@ -1,0 +1,1 @@
+**Task #18:** Button with id `rotateLeft` allows decreasing the degrees of rotation for the `transform` style of a stamp

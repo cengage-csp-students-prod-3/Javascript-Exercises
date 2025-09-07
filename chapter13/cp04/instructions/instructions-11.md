@@ -1,0 +1,1 @@
+**Task #11:** Store the count of the least-used word in the `minimumCount` variable

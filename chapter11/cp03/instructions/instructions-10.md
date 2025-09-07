@@ -1,0 +1,1 @@
+**Task #10:** Add `typeImage` variable to the `init()` function
