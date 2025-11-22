@@ -42,3 +42,5 @@ The `makeBranches()` function should recursively move through the different leve
   ```
 - Append `newList` to the `nestedList` element node.
 - Loop through the child nodes of `treeNode` using **n** to represent each child node, and for each child node to call the `makeBranches()` function using **n** and `newList` as the parameter values.
+
+> info _js_tree.html_ contains a syntax error on or near line 119. `</code` does not contain a closing tag and may impact grading.
